@@ -21,7 +21,6 @@ public class LBCounter extends Label implements StreamObserver{
 	
 	@Override
 	public void update(StreamWorkerAbs parent) {
-		System.out.println("I'm here "+parent.getTotalTweets());
 		this.updateCounter(parent.getTotalTweets());
 	}	
 	
