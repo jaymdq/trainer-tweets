@@ -1,0 +1,89 @@
+#CATEGORY Color
+
+rojo
+colorado
+carmesí
+bermellón
+escarlata
+granate
+carmín
+amaranto
+verde
+chartreuse
+verde Kelly
+esmeralda
+verde agua
+verdeagua
+agua marina
+jade
+verde veronés
+arlequín
+espárrago
+verde oliva
+verde cazador
+azul
+azul cobalto
+azul marino
+azul petróleo
+azur
+zafiro
+añil
+índigo
+turquí
+azul de Prusia
+azul majorelle
+azul Klein
+magenta
+fucsia
+morado
+malva
+lila
+salmón
+lavanda
+rosa
+cian
+turquesa
+celeste
+cerúleo
+aguamarina
+amarillo
+limón
+lima
+oro
+dorado
+ámbar
+amarillo indio
+amarillo selectivo
+marrón
+pardo
+café
+chocolate
+castaño
+caqui
+ocre
+siena
+siena pálido
+borgoña
+violeta
+lavanda floral
+amatista
+Púrpura
+púrpura de Tiro
+naranja
+anaranjado
+coral
+sésamo
+albaricoque
+beis
+beige
+durazno
+piel
+blanco
+nieve
+lino
+hueso
+marfil
+plata
+plateado
+gris
+negro

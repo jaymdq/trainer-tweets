@@ -1,0 +1,593 @@
+#CATEGORY Calle
+
+11 de Septiembre
+12 de Octubre
+14 de Julio
+25 de Mayo
+4 de Abril
+9 de Julio
+A. Martínez
+Martínez
+A.Lamberto
+Lamberto
+A.Maderni
+Maderni
+Aeronautica Argentina
+Alberdi
+Alem
+Alemania
+Almafuerte
+Alonso
+Alsina
+Alte. Guisse
+Almirante Guisse
+Alte. Brown
+Almirante Brown
+Alvarado
+Ameghino
+América
+Antártida Argentina
+Antonena
+Arana
+Arenales
+Argerich
+Aristeguy
+Arrillaga
+Arroyo Seco
+Artigas
+Ayacucho
+Azcuénaga
+Azucena
+B. J. M. de Rosas
+Juan Manuel de Rosas
+Baigorria
+Bariffi
+Basílico
+Beiró
+Belgrano
+Bereterbide
+Berrutti
+Bolivia
+Brandsen
+Buenos Aires
+C. Cadona
+Cadona
+C. Calfulcurá
+Calfulcurá
+Cabral
+Cagnoli
+Calihue
+Callao
+Canadá
+Carriego
+Casacuberta
+Caseros
+Catamarca
+Cerrillada
+Cereseto
+Cesio
+Chacabuco
+Chaco
+Chapaleofú
+Chapeaurouge
+Chienno
+Chile
+Chubut
+Ciao
+Circunvalación
+Cnel J Aguilera
+Aguilera
+Col. Norte Macaya
+Colectora Norte Macaya
+Norte Macaya
+Col. Sur Pugliese
+Colectora Sur Pugliese
+Sur Pugliese
+Colombia
+Constitución
+Córdoba
+Corrientes
+Costa Rica
+Cuba
+D. Alighieri
+Alighieri
+Dabidos
+Daglio
+Darragueira
+De la  Canal
+De los Granaderos
+De Pietri
+De Roxas
+Del Libertador
+Del Medio
+Dhers
+Dinamarca
+Doering
+Domínguez
+D. Pastoriza
+Pastoriza
+Dr. Illia
+Illia
+Duffau
+E. Rodríguez
+Rodríguez
+Eandi
+Echeverría
+Ecuador
+Edison
+Entre Rios
+Esquerdo
+Ezeiza
+F. de la Cruz
+de la Cruz
+F. García Lorca
+García Lorca
+F. Independencia
+Fuerte Independencia
+F.L.Beltran
+Beltran
+Fidanza
+Figueroa
+Fleming
+Fontana
+Formosa
+Frag. Sarmiento
+Fragata Sarmiento
+Francia
+Franklin
+Frondizi
+Fugl
+Fulton
+G. Hudson
+Hudson
+G. M. de S. Martín
+San Martín
+G. Rivero
+Rivero
+G.Cima
+Cima
+Galfre
+Galicia
+Gardel
+Garibaldi
+Godoy Cruz
+González Pacheco
+Gorman
+Gral. Lemos
+General Lemos
+Lemos
+Gral. Savio
+General Savio
+Savio
+Gral. Roca
+General Roca
+Roca
+Guatemala
+Güemes Norte
+Güemes Sur
+Guido
+Haití
+Hernández
+Hno Crisóstomo
+Holanda
+Holmberg
+Huasañan
+Huarruca
+Huemulen
+I.Fernández
+Fernández
+Ijurco
+Independencia
+Ingenieros
+Iraola
+Israel
+Italia
+Ituzaingó
+J. de D. Filiberto
+Filiberto
+J. Martí
+Martí
+J.Basso Aguirre
+Basoo Aguirre
+J.Bisogni
+Bisogni
+Japón
+Juan XXIII
+Juárez
+Juldain
+Jujuy
+Juncal
+Kramer
+L. Cabana
+Cabana
+L. de la Torre
+Lisandro de la Torre
+L.J. Actis
+Actis
+L.Poli
+Poli
+La Blanca
+La Merced
+La Movediza
+La Pampa
+La Pastora
+La Pesquería
+La Rioja
+Labarden
+Lamadrid
+Langueyú
+Lanza de Vasto
+Laprida
+Larrea
+Las Amapolas
+Las Azaleas
+Las Camelias
+Las Chilcas
+Las Glicinas
+Las Heras
+Las Hortensias
+Las Lilas
+Las Malvinas
+Las Margaritas
+Las Orquídeas
+Las Petunias
+Las Violetas
+Lauraleofú
+Lavalle
+Leeson
+Lennon
+Lester
+Libertad
+Lima
+Liniers
+Linstow
+Lobería
+Los Agapantos
+Los Alamos
+Los Aromos
+Los Cedros
+Los Ceibos
+Los Corales
+Los Fresnos
+Los Huesos
+Los Mimbres
+Los Nogales
+Los Olmos
+Los Ombúes
+Los Pinos
+Los Robles
+Los Sauces
+Los Talas
+Los Tamarindos
+Los Tilos
+Los Tulipanes
+M. Fierro
+Martín Fierro
+M. Gandhi
+Mahatma Gandhi
+Gandhi
+M. L. King
+Martin Luther King
+M. Lendes
+Lendes
+Macaya Col. Norte
+Macaya Colectora Norte
+Machado
+Magallanes
+Magnasco
+Maipú
+Maritorena
+Marzoratti
+Massini
+Mathiansen
+Mendoza
+México
+Misiones
+Mitre
+Montevideo
+Montiel
+Morel
+Moreno
+Mosconi
+Muñiz
+Murature
+Napaleofú
+Navarro
+Necochea
+Neuquén
+Newton
+Nicaragua
+Nigro
+Novoa
+ñancai
+O'Higgins
+Otamendi
+P. de los Andes
+P. Sant Miqueu
+Sant Miqueu
+Palacios
+Panamá
+Paraguay
+Paso
+Pasteur
+Patagonia
+Payaniyeu
+Payró
+Paz
+Pedersen
+Pellegrini
+Pennachi
+Peré
+Peyrel
+Piccirilli
+Picheuta
+Piedrabuena
+Pinto
+Pio XII
+Pizzorno
+Portugal
+Poinamil
+Pozos
+Pratt
+Primera Junta
+Pueblos Originarios
+Pueblo Vasco
+Pueyrredón
+Pugliese Col. Sur
+Pugliese Colectora Sur
+Quequen
+Quinq. Martín
+Quintana
+R. Cruz
+Cruz
+R. Darío
+Darío
+R. de Castro
+R. Pascucci
+Pascucci
+Rauch
+Ref. Universitaria
+Reforma Universitaria
+Reconquista
+Riato
+Richieri
+Rivas
+Rodríguez
+Ronca Hue
+Rondeau
+Rosales
+Roser
+Rucamalen
+S. Del Estero
+Santiago Del Estero
+S. Peña
+Saenz Peña
+S. Vega
+S.M. de Oro
+S.Sombra
+Sombra
+Saavedra
+Salceda
+Salta
+San Felipe
+San Francisco
+San Juan
+San Lorenzo
+San Martín
+Sandino
+Santa Cruz
+Sarmiento
+Scavini
+Schweitzer
+Sinka
+Soldado Argentino
+Spegazini
+Suarez García
+Suecia
+Suipacha
+Suiza
+T. de Calcuta
+Calcuta
+Falkner
+Tacuarí
+Tierra del Fuego
+Tomas M.
+Tucumán
+Ugalde
+Ugarte
+Uriburu
+Urquiza
+Uspallata
+V. López
+Vicente López
+V. Sarfield
+Velez Sarfield
+Venezuela
+Viamonte
+Vigil
+Vistalli
+Vivot
+Yrigoyen
+Yugoslavia
+Zarini, Dr.
+Zarini
+Alvear
+Avellaneda
+Balbín
+Bolívar
+Brasil
+Buzón
+Colón
+España
+Espora
+Estrada
+Falucho
+Cabildo
+Campos, Luis M.
+Campos
+Del Valle
+Díaz Vélez
+Don Bosco
+Dorrego
+J.B. Justo
+Juan B. Justo
+L. de Osornio
+Osornio
+Lunghi
+M. D' Andrea
+Marconi
+Perón, Pte.Perón, Eva
+Perón
+Pujol
+Rivadavia
+S. Lamas
+Lamas
+San Gabriel
+Santamarina
+Av. Alvear
+Av. Avellaneda
+Av. Balbín
+Av. Bolívar
+Av. Brasil
+Av. Buzón
+Av. Colón
+Av. España
+Av. Espora
+Av. Estrada
+Av. Falucho
+Av. Cabildo
+Av. Campos, Luis M.
+Av. Del Valle
+Av. Díaz Vélez
+Av. Don Bosco
+Av. Dorrego
+Av. J.B. Justo
+Av. L. de Osornio
+Av. Lunghi
+Av. M. D' Andrea
+Av. Marconi
+Av. Perón, Pte.Av. Perón, Eva
+Av. Pujol
+Av. Rivadavia
+Av. S. Lamas
+Av. San Gabriel
+Av. Santamarina
+Avenida Alvear
+Avenida Avellaneda
+Avenida Balbín
+Avenida Bolívar
+Avenida Brasil
+Avenida Buzón
+Avenida Colón
+Avenida España
+Avenida Espora
+Avenida Estrada
+Avenida Falucho
+Avenida Cabildo
+Avenida Campos, Luis M.
+Avenida Del Valle
+Avenida Díaz Vélez
+Avenida Don Bosco
+Avenida Dorrego
+Avenida J.B. Justo
+Avenida L. de Osornio
+Avenida Lunghi
+Avenida M. D' Andrea
+Avenida Marconi
+Avenida Perón, Pte.Avenida Perón, Eva
+Avenida Pujol
+Avenida Rivadavia
+Avenida S. Lamas
+Avenida San Gabriel
+Avenida Santamarina
+
+#CATEGORY Avenida
+Alvear
+Avellaneda
+Balbín
+Bolívar
+Brasil
+Buzón
+Colón
+España
+Espora
+Estrada
+Falucho
+Cabildo
+Campos, Luis M.
+Campos
+Del Valle
+Díaz Vélez
+Don Bosco
+Dorrego
+J.B. Justo
+Juan B. Justo
+L. de Osornio
+Osornio
+Lunghi
+M. D' Andrea
+Marconi
+Perón, Pte.Perón, Eva
+Perón
+Pujol
+Rivadavia
+S. Lamas
+Lamas
+San Gabriel
+Santamarina
+Av. Alvear
+Av. Avellaneda
+Av. Balbín
+Av. Bolívar
+Av. Brasil
+Av. Buzón
+Av. Colón
+Av. España
+Av. Espora
+Av. Estrada
+Av. Falucho
+Av. Cabildo
+Av. Campos, Luis M.
+Av. Del Valle
+Av. Díaz Vélez
+Av. Don Bosco
+Av. Dorrego
+Av. J.B. Justo
+Av. L. de Osornio
+Av. Lunghi
+Av. M. D' Andrea
+Av. Marconi
+Av. Perón, Pte.Av. Perón, Eva
+Av. Pujol
+Av. Rivadavia
+Av. S. Lamas
+Av. San Gabriel
+Av. Santamarina
+Avenida Alvear
+Avenida Avellaneda
+Avenida Balbín
+Avenida Bolívar
+Avenida Brasil
+Avenida Buzón
+Avenida Colón
+Avenida España
+Avenida Espora
+Avenida Estrada
+Avenida Falucho
+Avenida Cabildo
+Avenida Campos, Luis M.
+Avenida Del Valle
+Avenida Díaz Vélez
+Avenida Don Bosco
+Avenida Dorrego
+Avenida J.B. Justo
+Avenida L. de Osornio
+Avenida Lunghi
+Avenida M. D' Andrea
+Avenida Marconi
+Avenida Perón, Pte.Avenida Perón, Eva
+Avenida Pujol
+Avenida Rivadavia
+Avenida S. Lamas
+Avenida San Gabriel
+Avenida Santamarina

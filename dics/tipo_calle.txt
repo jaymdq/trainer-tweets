@@ -1,0 +1,69 @@
+#CATEGORY Tipo Calle
+
+vía
+vías
+vía pública
+arteria
+arterias
+avenida
+avenidas
+bulevar
+boulevard
+paseo
+paseos
+calle principal
+calles principales
+pista
+pistas
+autopista
+autopistas
+carretera
+carreteras
+red
+redes
+rúa
+pasaje
+pasajes
+pasadizo
+pasadizos
+callejuela
+callejuelas
+calleja
+callejas
+callejón
+callejones
+camino
+caminos
+cuesta
+cuestas
+subida
+subidas
+costanilla
+costanillas
+vial
+bajada
+bajadas
+paso
+pasos
+acceso
+accesos
+senda
+sendas
+calzada
+calzadas
+vado
+vados
+atajo
+atajos
+rodeo
+rodeos
+desvío
+desvíos
+galería
+galerías
+callejón sin salida
+callejones sin salida
+glorieta
+glorietas
+rotonda
+explanada

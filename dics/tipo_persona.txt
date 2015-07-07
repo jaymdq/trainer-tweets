@@ -1,0 +1,16 @@
+#CATEGORY Tipo Persona
+
+Transeúnte
+viandante
+peatón
+peatones
+conductor
+conductores
+chófer
+choferes
+taxista
+taxistas
+cartero
+vendedor callejero
+barrendero
+repartidor

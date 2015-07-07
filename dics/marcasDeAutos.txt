@@ -1,0 +1,42 @@
+#CATEGORY Marca De Auto
+
+Isuzu
+Bmw
+Audi
+Mercedes benz
+Volkswagen
+Ferrari
+Porsche
+Lamborghini
+Seat
+Toyota
+Aston Martin
+Renault
+Honda
+Ford
+Lexus
+Jaguar
+Volvo
+Peugeot
+Mazda
+Bentley
+Opel
+Nissan
+Mitsubishi
+Cadillac
+Fiat
+Dodge
+Hummer
+Hyundai
+Chrysler
+Jeep
+Kia
+Pontiac
+Suzuki
+Gmc
+Lincoln
+Acura
+Mecury
+Chevrolet
+Alfa Romeo
+Citroën

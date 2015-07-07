@@ -1,0 +1,402 @@
+#CATEGORY Ruta
+
+Ruta Nacional 3
+Ruta Nacional 5
+Ruta Nacional 7
+Ruta Nacional 8
+Ruta Nacional 9
+Ruta Nacional 11
+Ruta Nacional 12
+Ruta Nacional 14
+Ruta Nacional 16
+Ruta Nacional 18
+Ruta Nacional 19
+Ruta Nacional 20
+Ruta Nacional 22
+Ruta Nacional 23
+Ruta Nacional 25
+Ruta Nacional 26
+Ruta Nacional 33
+Ruta Nacional 34
+Ruta Nacional 35
+Ruta Nacional 36
+Ruta Nacional 38
+Ruta Nacional 40
+Ruta Nacional 50
+Ruta Nacional 51
+Ruta Nacional 52
+Ruta Nacional 60
+Ruta Nacional 64
+Ruta Nacional 65
+Ruta Nacional 66
+Ruta Nacional 68
+Ruta Nacional 74
+Ruta Nacional 75
+Ruta Nacional 76
+Ruta Nacional 77
+Ruta Nacional 78
+Ruta Nacional 79
+Ruta Nacional 81
+Ruta Nacional 86
+Ruta Nacional 89
+Ruta Nacional 95
+Ruta Nacional 98
+Ruta Nacional 101
+Ruta Nacional 105
+Ruta Nacional 117
+Ruta Nacional 118
+Ruta Nacional 119
+Ruta Nacional 120
+Ruta Nacional 121
+Ruta Nacional 122
+Ruta Nacional 123
+Ruta Nacional 127
+Ruta Nacional 130
+Ruta Nacional 131
+Ruta Nacional 135
+Ruta Nacional 136
+Ruta Nacional 141
+Ruta Nacional 142
+Ruta Nacional 143
+Ruta Nacional 144
+Ruta Nacional 145
+Ruta Nacional 146
+Ruta Nacional 147
+Ruta Nacional 148
+Ruta Nacional 149
+Ruta Nacional 150
+Ruta Nacional 151
+Ruta Nacional 152
+Ruta Nacional 153
+Ruta Nacional 154
+Ruta Nacional 157
+Ruta Nacional 158
+Ruta Nacional 168
+Ruta Nacional 173
+Ruta Nacional 174
+Ruta Nacional 175
+Ruta Nacional 177
+Ruta Nacional 178
+Ruta Nacional 188
+Ruta Nacional 193
+Ruta Nacional 205
+Ruta Nacional 226
+Ruta Nacional 228
+Ruta Nacional 231
+Ruta Nacional 232
+Ruta Nacional 234
+Ruta Nacional 237
+Ruta Nacional 242
+Ruta Nacional 249
+Ruta Nacional 250
+Ruta Nacional 251
+Ruta Nacional 252
+Ruta Nacional 259
+Ruta Nacional 260
+Ruta Nacional 281
+Ruta Nacional 288
+Ruta Nacional 293
+Ruta Nacional 1V26
+Ruta Nacional 1S40
+Ruta Nacional 2S40
+Ruta Nacional 3S40
+Ruta Nacional 1V40
+Ruta Nacional A001
+Ruta Nacional A002
+Ruta Nacional A003
+Ruta Nacional A004
+Ruta Nacional A005
+Ruta Nacional A006
+Ruta Nacional A007
+Ruta Nacional A008
+Ruta Nacional A009
+Ruta Nacional A010
+Ruta Nacional A011
+Ruta Nacional A012
+Ruta Nacional A014
+Ruta Nacional A015
+Ruta Nacional A016
+Ruta Nacional A019
+Ruta Nacional A023
+Ruta Nacional A024
+Ruta Nacional A025
+Ruta Nacional A026
+Ruta 1
+Ruta 2
+Ruta 3
+Ruta 5
+Ruta 7
+Ruta 8
+Ruta 9
+Ruta 11
+Ruta 12
+Ruta 14
+Ruta 16
+Ruta 18
+Ruta 19
+Ruta 20
+Ruta 22
+Ruta 23
+Ruta 25
+Ruta 26
+Ruta 33
+Ruta 34
+Ruta 35
+Ruta 36
+Ruta 38
+Ruta 40
+Ruta 50
+Ruta 51
+Ruta 52
+Ruta 60
+Ruta 64
+Ruta 65
+Ruta 66
+Ruta 68
+Ruta 74
+Ruta 75
+Ruta 76
+Ruta 77
+Ruta 78
+Ruta 79
+Ruta 81
+Ruta 86
+Ruta 89
+Ruta 95
+Ruta 98
+Ruta 101
+Ruta 105
+Ruta 117
+Ruta 118
+Ruta 119
+Ruta 120
+Ruta 121
+Ruta 122
+Ruta 123
+Ruta 127
+Ruta 130
+Ruta 131
+Ruta 135
+Ruta 136
+Ruta 141
+Ruta 142
+Ruta 143
+Ruta 144
+Ruta 145
+Ruta 146
+Ruta 147
+Ruta 148
+Ruta 149
+Ruta 150
+Ruta 151
+Ruta 152
+Ruta 153
+Ruta 154
+Ruta 157
+Ruta 158
+Ruta 168
+Ruta 173
+Ruta 174
+Ruta 175
+Ruta 177
+Ruta 178
+Ruta 188
+Ruta 193
+Ruta 205
+Ruta 226
+Ruta 228
+Ruta 231
+Ruta 232
+Ruta 234
+Ruta 237
+Ruta 242
+Ruta 249
+Ruta 250
+Ruta 251
+Ruta 252
+Ruta 259
+Ruta 260
+Ruta 281
+Ruta 288
+Ruta 293
+Ruta 1V26
+Ruta 1S40
+Ruta 2S40
+Ruta 3S40
+Ruta 1V40
+Ruta A001
+Ruta A002
+Ruta A003
+Ruta A004
+Ruta A005
+Ruta A006
+Ruta A007
+Ruta A008
+Ruta A009
+Ruta A010
+Ruta A011
+Ruta A012
+Ruta A014
+Ruta A015
+Ruta A016
+Ruta A019
+Ruta A023
+Ruta A024
+Ruta A025
+Ruta A026
+Camino General Belgrano
+Camino Centenario
+Ruta Provincial 1
+Ruta Provincial 2
+Ruta Provincial 4
+Ruta Provincial 6
+Ruta Provincial 7
+Ruta Provincial 8
+Ruta Provincial 9
+Ruta Provincial 11
+Ruta Provincial 13
+Ruta Provincial 14
+Ruta Provincial 15
+Ruta Provincial 16
+Ruta Provincial 17
+Ruta Provincial 18
+Ruta Provincial 20
+Ruta Provincial 21
+Ruta Provincial 23
+Ruta Provincial 24
+Ruta Provincial 25
+Ruta Provincial 26
+Ruta Provincial 27
+Ruta Provincial 28
+Ruta Provincial 29
+Ruta Provincial 30
+Ruta Provincial 31
+Ruta Provincial 32
+Ruta Provincial 34
+Ruta Provincial 36
+Ruta Provincial 39
+Ruta Provincial 40
+Ruta Provincial 41
+Ruta Provincial 47
+Ruta Provincial 48
+Ruta Provincial 49
+Ruta Provincial 50
+Ruta Provincial 51
+Ruta Provincial 53
+Ruta Provincial 55
+Ruta Provincial 56
+Ruta Provincial 57
+Ruta Provincial 58
+Ruta Provincial 59
+Ruta Provincial 62
+Ruta Provincial 63
+Ruta Provincial 65
+Ruta Provincial 70
+Ruta Provincial 72
+Ruta Provincial 73
+Ruta Provincial 74
+Ruta Provincial 75
+Ruta Provincial 76
+Ruta Provincial 78
+Ruta Provincial 80
+Ruta Provincial 85
+Ruta Provincial 86
+Ruta Provincial 88
+Ruta Provincial 91
+Ruta Provincial 191
+Ruta Provincial 192
+Ruta Provincial 195
+Ruta Provincial 197
+Ruta Provincial 200
+Ruta Provincial 201
+Ruta Provincial 202
+Ruta Provincial 210
+Ruta Provincial 215
+Ruta Provincial 227
+Ruta 1
+Ruta 2
+Ruta 4
+Ruta 6
+Ruta 7
+Ruta 8
+Ruta 9
+Ruta 11
+Ruta 13
+Ruta 14
+Ruta 15
+Ruta 16
+Ruta 17
+Ruta 18
+Ruta 20
+Ruta 21
+Ruta 23
+Ruta 24
+Ruta 25
+Ruta 26
+Ruta 27
+Ruta 28
+Ruta 29
+Ruta 30
+Ruta 31
+Ruta 32
+Ruta 34
+Ruta 36
+Ruta 39
+Ruta 40
+Ruta 41
+Ruta 47
+Ruta 48
+Ruta 49
+Ruta 50
+Ruta 51
+Ruta 53
+Ruta 55
+Ruta 56
+Ruta 57
+Ruta 58
+Ruta 59
+Ruta 62
+Ruta 63
+Ruta 65
+Ruta 70
+Ruta 72
+Ruta 73
+Ruta 74
+Ruta 75
+Ruta 76
+Ruta 78
+Ruta 80
+Ruta 85
+Ruta 86
+Ruta 88
+Ruta 91
+Ruta 191
+Ruta 192
+Ruta 195
+Ruta 197
+Ruta 200
+Ruta 201
+Ruta 202
+Ruta 210
+Ruta 215
+Ruta 227
+
+#CATEGORY Autopista
+
+AU1 25 de Mayo
+AU2 Costanera
+AU3 Central
+AU4 General Paz
+AU5 Transversal
+AU6 Perito Moreno
+AU7 Occidental
+AU8
+AU9 9 de Julio
+Autopista Acceso Norte
+Autopista Acceso Oeste
+Autopista Ezeiza-Cañuelas
+Camino Negro
+Camino Parque del Buen Ayre
+Acceso Norte
+Acceso Oeste
+Ezeiza-Cañuelas

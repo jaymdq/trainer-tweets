@@ -1,0 +1,73 @@
+#CATEGORY Vehículo
+
+auto
+automóvil
+autos
+automóviles
+vehículo
+vehículos
+coche
+coches
+carruaje
+carruajes
+carro
+carros
+carreta
+carretas
+todo terreno
+patrullero
+patrulleros
+furgón
+furgones
+furgoneta
+furgonetas
+camión
+camiones
+camión de transporte
+camiones de transporte
+camioneta
+camionetas
+coche de carga
+coches de carga
+combi
+combis
+bondi
+bondis
+colectivo
+colectivos
+cole
+autobús
+autobuses
+minibus
+ómnibus
+ómnibuses
+colectivo de larga distancia
+colectivos de larga distancia
+coche de larga distancia
+coches de larga distancia
+moto
+motos
+motocicleta
+motocicletas
+ciclomotor
+ciclomotores
+cuatriciclo
+cuatriciclos
+triciclo
+triciclos
+bici
+bicis
+bicicleta
+bicicletas
+taxi
+taxis
+remis
+remises
+remisse
+remisses
+tren
+trenes
+subte
+subtes
+subterráneo
+subterráneos
